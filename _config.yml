@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: 1HitSong                          # the main title
 
-tagline: This is my site   # it will display as the sub-title
+tagline: Programming Nerd [Golang, C#, Node.js, JavaScript] Skateboarding, Punk, and Horror!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   I post stuff I'm interested in. That's it.
@@ -38,7 +38,6 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 1Hitsong
-  email:              # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/1hitsong      # change to your twitter homepage
@@ -80,7 +79,7 @@ theme_mode: dark   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: /assets/img/avatars/profile.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
