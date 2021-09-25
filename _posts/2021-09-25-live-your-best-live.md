@@ -1,6 +1,6 @@
 ---
 title: Live Your Best Life
-date: 2021-09-22 8:45:00 -0400
+date: 2021-09-25 8:45:00 -0400
 categories: [Short Stories]
 tags: [horror, reincarnation]     # TAG names should always be lowercase
 image:
