@@ -7,7 +7,7 @@ image:
   src: /assets/img/posts/2021/blood.jpg
   width: 1000   # in pixels
   height: 400   # in pixels
-  alt: blood of the masss
+  alt: blood of the masses
 ---
 
 David, Ed, Albert, and Henry Lee didn’t get up on the stage until after 11. The opening band was late getting started and even with cutting back their setlist, the show was still over half an hour behind.
