@@ -31,20 +31,13 @@ url: 'https://1hitsong.github.io'
 github:
   username: 1hitsong             # change to your github username
 
-twitter:
-  username: 1hitsong            # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 1Hitsong
+  name: 1hitsong
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/1hitsong      # change to your twitter homepage
     - https://github.com/1hitsong       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
