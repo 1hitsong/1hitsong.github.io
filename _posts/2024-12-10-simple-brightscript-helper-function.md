@@ -10,4 +10,36 @@ image:
   alt: JavaScript Code
 ---
 
-Creating a simple BrightScript helper function.
+If there is one thing I've learned from working in code for so long it's that negative conditions can easily trip
+people up. That's why when possible, I try to use positive conditions instead of negative conditions.
+
+Obviously, this doesn't always make sense, but in BrightScript, there is one fundamental condition we can apply
+this code style to and it greatly improves code readability.
+
+In BrightScript, you will need to frequently check if a variable is `inValid`. In most Roku documentation you'll
+see this check written as:
+
+```brightscript
+if variable <> inValid
+    doSomething()
+end if
+```
+
+This works just fine; however, place several of these checks in a chain or in a function and it gets messy quick!
+
+Here's a simple helper method I made to save a few characters and make the code a little easier to read at a
+glimpse.
+
+```brightscript
+function isValid(input as dynamic) as boolean
+    return input <> invalid
+end function
+```
+
+It doesn't get much simpler than that. Now instead of using the negative condition, we can use a positive condition.
+
+```brightscript
+if isValid(variable)
+    doSomething()
+end if
+```
