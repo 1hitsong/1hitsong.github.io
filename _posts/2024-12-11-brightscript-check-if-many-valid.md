@@ -1,6 +1,6 @@
 ---
 title: Check if many things are valid in BrightScript 
-date: 2024-12-11 20:00:00 -0500
+date: 2024-12-11 17:30:00 -0500
 categories: [programming]
 tags: [roku, brightscript, code]     # TAG names should always be lowercase
 # image:
