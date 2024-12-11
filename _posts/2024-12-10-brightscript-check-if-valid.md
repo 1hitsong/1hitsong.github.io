@@ -1,5 +1,5 @@
 ---
-title: A simple BrightScript helper function
+title: A better way to check if something is valid in BrightScript 
 date: 2024-12-10 20:00:00 -0500
 categories: [programming]
 tags: [roku, brightscript, code]     # TAG names should always be lowercase
