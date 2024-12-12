@@ -151,6 +151,6 @@ movie = {
 }
 
 if isChainValid(movie, "data.overview.slug")
-    print `movie.data.overview.slug`, movie.data.overview.slug
+    print movie.data.overview.slug
 end if
 ```
