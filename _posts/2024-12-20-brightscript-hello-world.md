@@ -1,6 +1,6 @@
 ---
 title: Make a Roku channel Part 1 - Hello World
-date: 2025-12-20 17:00:00 -0500
+date: 2024-12-20 16:00:00 -0500
 categories: [programming, learning]
 tags: [roku, brightscript, code, learning]     # TAG names should always be lowercase
 ---
@@ -88,3 +88,7 @@ Inside `main()` we setup our screen and instruct it to create and display the ma
 The code from `components/mainScene.brs` is applied to the display instructions in `components/mainScene.xml` and pushed to the screen.
 
 Back inside `main()` in `source/main.brs` we wait inside a loop for an event to occur.
+
+## Line-by-line Explanation of Code
+
+I've commented each line of code in the [Hello World](https://github.com/1hitsong/Learn-BrightScript-Hello-World) channel. Download, clone, or simply read the comments to get a detailed explanation of what each line of code means.
