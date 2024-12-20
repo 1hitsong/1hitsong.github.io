@@ -111,6 +111,8 @@ attempting to access a property value as if it were.
 That's why I created a helper function that will step through the object chain checking if each key
 is valid and will return false as soon as it hits an `invalid` item.
 
+Note: This function uses the [isValid() helper function](https://1hitsong.github.io/posts/brightscript-check-if-valid/)
+
 ```brightscript
 function isChainValid(root as dynamic, propertyPath as string) as boolean
     rootPath = root

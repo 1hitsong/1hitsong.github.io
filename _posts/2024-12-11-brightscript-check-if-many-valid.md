@@ -35,6 +35,8 @@ That's an improvement, but it's still very verbose. That's why I wrote a helper 
 
 Simply pass it an array of items, and it will return a bool value indicating whether or not all the variables are valid.
 
+Note: This function uses the [isValid() helper function](https://1hitsong.github.io/posts/brightscript-check-if-valid/)
+
 ```brightscript
 function isAllValid(input as object) as boolean
     for each item in input
