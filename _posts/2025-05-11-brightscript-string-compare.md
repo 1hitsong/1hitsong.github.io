@@ -1,6 +1,6 @@
 ---
 title: Case insensitive string comparison in BrightScript
-date: 2025-05-11 14:05:00 -0500
+date: 2025-05-11 12:05:00 -0500
 categories: [programming]
 tags: [roku, brightscript, code]     # TAG names should always be lowercase
 ---
